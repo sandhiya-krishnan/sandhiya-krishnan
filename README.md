@@ -8,7 +8,7 @@ Hi there, I'm Sandhiya 👋
 - 📜 AWS Certified Cloud Practitioner
 - 👨‍💼 Active ISTE Club Member , Project Coordinator
 
- 🛠 Tech Stack -
+ 🛠 Tech Stack - 
  Java
  React
  MongoDB
