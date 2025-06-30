@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Sandhiya 👋
 
-<!--
-**sandhiya-krishnan/sandhiya-krishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year IT Student | 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+🚀 About Me
+- 🎓 B.Tech in IT | Passionate about coding and innovation
+- 🛠️ Skilled in Web Development, React, MongoDB, Node.js, and Java
+- 📜 AWS Certified Cloud Practitioner
+- 👨‍💼 Active ISTE Club Member , Project Coordinator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠 Tech Stack
+ Java
+ React
+ MongoDB
+ Node.js
+
+🔗 Connect with Me
+LinkedIn - https://www.linkedin.com/in/sandhiya-k-b01565259/
+Mail - sanjukrish2005@gmail.com
