@@ -9,9 +9,9 @@ Hi there, I'm Sandhiya 👋
 - 👨‍💼 Active ISTE Club Member , Project Coordinator
 
  🛠 Tech Stack - 
- Java
- React
- MongoDB
+ Java,
+ React,
+ MongoDB,
  Node.js
 
 🔗 Connect with Me
